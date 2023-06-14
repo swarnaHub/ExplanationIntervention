@@ -1,0 +1,110 @@
+[
+    {
+        "answer": "yes",
+        "gold_explanation": "Athena was the Greek goddess of war. Aphrodite was the Greek goddess of love. Freya was the Norse goddess of war, love, and fertility.",
+        "harmful_explanation": ["Athena was the Greek goddess of horses and of earthquakes. Aphrodite was the Greek goddess of love. Freya was the Norse goddess of war, love, and fertility.", "Athena was the Greek goddess of horses and of earthquakes. Aphrodite was the Greek goddess of hunt. Freya was the Norse goddess of bloodlust."],
+        "wrong_answer": "no",
+        "index": 1560,
+        "qid": "e8be6603dd5ea0dc9d8d",
+        "question": "Is Freya a combination of Athena and Aphrodite?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "A White Russian is a drink containing cream, vodka, and Kahlua. Mixing lime and cream results in curdled milk, which is not good to drink.",
+        "harmful_explanation": ["A White Russian is a drink containing cream, vodka, and Kahlua. Mixing lime and cream does not result in curdled milk and so it is good to drink.", "A White Russian is a drink containing orange juice, vodka, and Kahlua. Mixing orange juice with lime is good to drink."],
+        "wrong_answer": "yes",
+        "index": 1360,
+        "qid": "e4ecaf6d334281cd48c7",
+        "question": "Would kaffir lime be good in a White Russian?"
+    },
+    {
+        "answer": "yes",
+        "gold_explanation": "Dem Bones is a spiritual song composed by James Weldon Johnson. The lyrics to Dem Bones mention the hip bone, back bone, and knee bone among others. The back bone is the spine, which is connected to the first 7 rib sets. The sternum, or breastbone, is a flat bone at the front center of the chest. The sternum and ribs are connected and make up the ribcage.",
+        "harmful_explanation": ["Dem Bones is a spiritual song composed by James Weldon Johnson. The lyrics to Dem Bones mention the hip bone, back bone, and knee bone among others. The back bone is the spine, which is connected to the first 7 rib sets. The sternum is a small, pea-shaped bone that lie beneath the head of the first metatarsal in the ball of the foot. The sternum and ribs are not connected.", "Dem Bones is a spiritual song composed by James Weldon Johnson. The lyrics to Dem Bones uses the theme of death to remind the audience of the glory that awaits in Heaven. The sternum is a small, pea-shaped bone that lie beneath the head of the first metatarsal in the ball of the foot. The sternum and ribs are not connected."],
+        "wrong_answer": "no",
+        "index": 945,
+        "qid": "3085c8839290ba5fd4e3",
+        "question": "Is sternum connected to any of the bones mentioned in James Weldon Johnson's Dem Bones?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "French is a romance language that originated in France. The Cleary School in Smithtown New York is a school for the deaf.",
+        "harmful_explanation": ["French is a romance language that originated in France. The Cleary School in Smithtown New York is a school for the blind.", "French is a type of cuisine that originated in France. The Cleary School in Smithtown New York is a school for the blind."],
+        "wrong_answer": "yes",
+        "index": 680,
+        "qid": "6a230baa54942d85e76d",
+        "question": "Can a student from Smithtown's Cleary School understand the speech of a French person?"
+    },
+    {
+        "answer": "yes",
+        "gold_explanation": "Monty Python and the Holy Grail was a famous film about King Arthur In Monty Python and the Holy Grail, swallows are mentioned several times",
+        "harmful_explanation": ["Monty Python and the Holy Grail was a famous film about King Arthur. In Monty Python and the Holy Grail, swallows are not mentioned", "Monty Python and the Holy Grail was a famous film about Queen Elizabeth. In Monty Python and the Holy Grail, swallows are not mentioned"],
+        "wrong_answer": "no",
+        "index": 456,
+        "qid": "7367375fd93e6c7a8450",
+        "question": "Did the swallow play a role in a famous film about King Arthur?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "Rede Globo is a Brazilian television network. The official language of Brazil is Portuguese.",
+        "harmful_explanation": ["Rede Globo is a Brazilian television network. The official language of Brazil is Mandarin.", "Rede Globo is a Chinese television network. The official language of China is Mandarin."],
+        "wrong_answer": "yes",
+        "index": 102,
+        "qid": "239c172a5fd8a0e41f1b",
+        "question": "Do the anchors on Rede Globo speak Chinese?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "The Snowy owl is a bird native to the Arctic regions of North America. Temperatures in the North American Arctic range from -36.4F to 50F. The Sonoran is one of the hottest deserts in the world. The Sonoran Desert can get as hot as 118F.",
+        "harmful_explanation": ["The Snowy owl is a bird native to the Arctic regions of North America. Temperatures in the North American Arctic range from -36.4F to 50F. The Sonoran is one of the most snowy mountains in the world.", "The Snowy owl is a bird native to humid and tropical Indian subcontinent. Temperatures in the Indian subcontinent reach up to 50C. The Sonoran is a hot and humid valley in India."],
+        "wrong_answer": "yes",
+        "index": 1126,
+        "qid": "e2e4a6066e36b90edc4d",
+        "question": "Could a snowy owl survive in the Sonoran?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "Pottery kilns heat from the sides. Glass kilns heat from the top. Glass can be fused in a ceramic pottery kiln without trouble.",
+        "harmful_explanation": ["Pottery kilns heat from the sides. Glass kilns heat from the top. Glass cannot be fused in a ceramic pottery kiln.", "Pottery kilns do not produce much heat. Glass cannot be fused in a ceramic pottery kiln."],
+        "wrong_answer": "yes",
+        "index": 1003,
+        "qid": "9aa3c896ccccfc975a89",
+        "question": "Is a pottery kiln inappropriate for use with glass blowing?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "Back pain may be worsened by repeated bending at the waist. Strawberries grow very close to the ground.",
+        "harmful_explanation": ["Back pain may be worsened by repeated bending at the waist. Strawberries grow high up on the tree.", "Back pain goes away with some walking. Strawberries grow high up on the tree."],
+        "wrong_answer": "yes",
+        "index": 157,
+        "qid": "48f71d68c790a0aa9ebf",
+        "question": "Would someone with back pain enjoy picking strawberries?"
+    },
+    {
+        "answer": "yes",
+        "gold_explanation": "Olympia Washington, is named after Mount Olympus. Mount Olympus is a mountain range in Washington named after the ancient Greek Mount Olympus. Hephaestus was the ancient Greek god of the forge and had a workshop on Mount Olympus.",
+        "harmful_explanation": ["Olympia Washington, is named after Mount Olympus. Mount Olympus is a mountain range in Washington named after the ancient Greek Mount Olympus. Hephaestus was the ancient Swiss god of the forge and had a workshop on the Alps", "Olympia Washington, is named after Mount Olympus. Mount Olympus is a mountain range in Athens named after the ancient Greek Mount Olympus. Hephaestus was the ancient Swiss god of the forge and had a workshop on the Alps"],
+        "wrong_answer": "no",
+        "index": 1171,
+        "qid": "cd73ab95b74d450677b0",
+        "question": "Does Olympia Washington share name with Hephaestus's workshop location?"
+    },
+    {
+        "answer": "no",
+        "gold_explanation": "Mike DeWine is Governor of Ohio. Felicity Huffman is a resident of California",
+        "harmful_explanation": ["Mike DeWine is Governor of Ohio. Felicity Huffman is a resident of Ohio", "Mike DeWine is Governor of North Carolina. Felicity Huffman is a resident of North Carolina"],
+        "wrong_answer": "yes",
+        "index": 589,
+        "qid": "7589d5c75bf43bd78534",
+        "question": "Would Felicity Huffman vote for Mike DeWine?"
+    },
+    {
+        "answer": "yes",
+        "gold_explanation": "Drew Carey has been the host of the Price is Right for over 13 years. Doug Davidson hosted the Price is Right from 1994-1995.",
+        "harmful_explanation": ["Drew Carey has been the host of the Price is Right for over 13 years. Doug Davidson is hosting the Price is Right from 1994 until now.", "Drew Carey has been the host of the Price is Right from 1994-1995. Doug Davidson is hosting the Price is Right from 1994 until now."],
+        "wrong_answer": "no",
+        "index": 1894,
+        "qid": "f6af196cc1c5e4399e77",
+        "question": "Has Drew Carey outshined Doug Davidson's tenure?"
+    }
+]
