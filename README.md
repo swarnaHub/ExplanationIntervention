@@ -1,6 +1,6 @@
 # ExplanationIntervention
 
-[Can Language Models Teach? Teacher Explanations Improve Student Performance via Theory of Mind]()
+[Can Language Models Teach? Teacher Explanations Improve Student Performance via Theory of Mind](https://arxiv.org/abs/2306.09299)
 
 [Swarnadeep Saha](https://swarnahub.github.io/), [Peter Hase](https://peterbhase.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
@@ -64,7 +64,7 @@ The harmful/deceiving explanations we constructed (two per sample) are placed in
 @article{saha2023teach,
   title={Can Language Models Teach? Teacher Explanations Improve Student Performance via Theory of Mind},
   author={Saha, Swarnadeep and and Hase, Peter and Bansal, Mohit},
-  journal={arXiv preprint arXiv:2110.14168},
+  journal={arXiv preprint arXiv:2306.09299},
   year={2023}
 }
 ```
